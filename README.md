@@ -1,6 +1,5 @@
 # GuitarLab-ESP32
 Sistema inteligente de afinación de guitarra con visualización local y monitorización web
-# Afinador Inteligente de Guitarra con ESP32
 
 ## Descripción
 
