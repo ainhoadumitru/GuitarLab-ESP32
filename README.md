@@ -1,8 +1,10 @@
 # GuitarLab-ESP32
-Sistema inteligente de afinación de guitarra con visualización local y monitorización web
+
 ![ESP32](https://img.shields.io/badge/ESP32-IoT-blue)
 ![Arduino](https://img.shields.io/badge/Arduino-C++-green)
 ![OLED](https://img.shields.io/badge/OLED-SSD1306-orange)
+
+Sistema inteligente de afinación de guitarra con visualización local y monitorización web
 
 ## Descripción
 
