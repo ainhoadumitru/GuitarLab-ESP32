@@ -70,8 +70,8 @@ Además de la visualización local en la pantalla OLED, el sistema incorpora una
 | INMP441 WS  | GPIO 16   |
 | INMP441 SD  | GPIO 18   |
 | INMP441 SCK | GPIO 17   |
-| OLED SDA    | GPIO 1    |
-| OLED SCL    | GPIO 2    |
+| OLED SDA    | GPIO 4    |
+| OLED SCL    | GPIO 5    |
 
 ---
 
