@@ -63,15 +63,21 @@ Además de la visualización local en la pantalla OLED, el sistema incorpora una
 
 ---
 
+
 ## Conexiones
 
-| Dispositivo | Pin ESP32 |
-| ----------- | --------- |
-| INMP441 WS  | GPIO 16   |
-| INMP441 SD  | GPIO 18   |
-| INMP441 SCK | GPIO 17   |
-| OLED SDA    | GPIO 4    |
-| OLED SCL    | GPIO 5    |
+| Dispositivo | Pin ESP32 / Conexión |
+| ----------- | -------------------- |
+| INMP441 WS  | GPIO 16              |
+| INMP441 SD  | GPIO 18              |
+| INMP441 SCK | GPIO 17              |
+| INMP441 VDD | 3.3V                 |
+| INMP441 GND | GND                  |
+| INMP441 L/R | GND                  |
+| OLED SDA    | GPIO 4               |
+| OLED SCL    | GPIO 5               |
+| OLED VCC    | 3.3V                 |
+| OLED GND    | GND                  |
 
 ---
 
